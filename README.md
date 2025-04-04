@@ -19,7 +19,7 @@
 
 1. Clone o repostório
     ```perl
-        git clone https://github.com/seu-usuario/FraudI-Frontend.git
+        git clone https://github.com/xavierruth/FraudI-Frontend.git
         cd FraudI-Frontend
     ```
 2. Instale as dependências 
